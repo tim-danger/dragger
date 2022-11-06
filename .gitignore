@@ -2,3 +2,8 @@
 
 # Project exclude paths
 /target/
+.classpath
+.project
+build.fxbuild
+.idea
+.settings
